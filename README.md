@@ -17,8 +17,8 @@ To write a program to perform linear search and binary search using python progr
 5.	Else, compare x with the middle element of the elements on the left side of mid. This is done by setting high to high = mid - 1.
 6.	Repeat steps 2 to 5 until low meets high
 #Program for linear search method to match the item in a list
-#Developed by: Kavinraja D
-#RegisterNumber: 22007928
+#Developed by: ANDREW VARGHESE VS
+#RegisterNumber: 212222103001
 
 i)	#Use a linear search method to match the item in a list.
 ```python
@@ -101,9 +101,9 @@ else:
 
 ```
 ## Sample Input and Output
-<img width="854" alt="Screenshot 2023-11-18 at 8 57 16 AM" src="https://github.com/Andrewvarghese653/Search-Algorithm/assets/145822115/646ade60-ae02-4629-a9b9-e37d985c2b19">
-<img width="769" alt="Screenshot 2023-11-18 at 8 57 57 AM" src="https://github.com/Andrewvarghese653/Search-Algorithm/assets/145822115/10a57960-7420-4bfa-aaa0-c799e49e0741">
-<img width="764" alt="Screenshot 2023-11-18 at 8 58 43 AM" src="https://github.com/Andrewvarghese653/Search-Algorithm/assets/145822115/03cd3d46-bad1-4ea2-a8e0-acf40845b057">
+<img width="842" alt="Screenshot 2023-11-18 at 9 53 22 AM" src="https://github.com/Andrewvarghese653/Search-Algorithm/assets/145822115/b9da426b-62e6-44a6-a944-e34fa84b8a48">
+<img width="827" alt="Screenshot 2023-11-18 at 9 54 30 AM" src="https://github.com/Andrewvarghese653/Search-Algorithm/assets/145822115/58354753-91ec-4e9a-bbb1-e834b1a4978d">
+<img width="800" alt="Screenshot 2023-11-18 at 9 55 20 AM" src="https://github.com/Andrewvarghese653/Search-Algorithm/assets/145822115/131e0cf1-e313-45bd-aa42-711962459176">
 
 
 
